@@ -14,5 +14,8 @@
     "require": {},
     "scripts": {
         "brain-games": "php bin/brain-games.php"
-    }
+    },
+    "bin": [
+        "bin/brain-games"
+    ]
 }
