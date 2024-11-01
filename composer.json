@@ -1,5 +1,6 @@
 {
     "name": "artur/php-project-45",
+    "description": "This is a short description of the project.",
     "autoload": {
         "psr-4": {
             "Artur\\PhpProject45\\": "src/"
