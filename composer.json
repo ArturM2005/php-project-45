@@ -3,7 +3,7 @@
     "description": "This is a short description of the project.",
     "autoload": {
         "psr-4": {
-            "Artur\\PhpProject45\\": "src/"
+            "BrainGames\\": "src/"
         }
     },
     "license": "Apache-2.0",
