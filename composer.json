@@ -13,7 +13,9 @@
             "email": "arturmuhamediarov@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "wp-cli/php-cli-tools": "^0.12.1"
+    },
     "scripts": {
         "brain-games": "php bin/brain-games.php"
     },
