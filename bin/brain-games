@@ -3,6 +3,6 @@
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-use function BrainGames\Cli\greeting;
+use function Artur\PhpProject45\Cli\greeting as greeting;
 
 greeting();
